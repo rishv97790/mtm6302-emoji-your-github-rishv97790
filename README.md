@@ -1,3 +1,7 @@
 # mtm6302-emoji-your-github-rishv97790
 Full Name: Ravinderpal Sharma
-Student iD: 90541112583
+Student iD: 90541112583 <br>
+clone the repository 
+![image](https://github.com/rishv97790/mtm6302-emoji-your-github-rishv97790/assets/138967300/657a882a-6748-412b-b11e-a8d1b336d39c) <br>
+invite the collaborator
+
