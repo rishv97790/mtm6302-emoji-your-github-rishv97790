@@ -6,6 +6,7 @@ invite the collaborator
 clone the repository 
 ![image](https://github.com/rishv97790/mtm6302-emoji-your-github-rishv97790/assets/138967300/657a882a-6748-412b-b11e-a8d1b336d39c) <br>
 commit changes and push to gitbash
+![image](https://github.com/rishv97790/mtm6302-emoji-your-github-rishv97790/assets/138967300/7f80dacf-b250-4a34-9406-707753912543)
 
 
 
